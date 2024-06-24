@@ -1,0 +1,29 @@
+* { /*font-size: 20px;*/ text-transform: uppercase;}
+
+h1{
+    font-weight: normal;
+    font-style: italic;
+}
+.separador-topo{margin-top: 30px; }
+.img-responsive{
+    width: 95%;
+    max-width: 400px;
+}
+.img-responsivet{
+    width: 20%;
+    max-width: 60px;
+}
+.homebg{
+    background: #fff url("../img/kriko.png") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size:cover;
+    background-size: cover;
+    height: 300px;
+}
+/** forms**/
+.zonaFormulario{
+    width: 90%;
+    max-width: 500px;
+    margin: 0 auto; /*centar horizontal*/
+}
